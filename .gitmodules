@@ -1,0 +1,9 @@
+[submodule "Pima_Diabetes_prediction_MLP"]
+	path = Pima_Diabetes_prediction_MLP
+	url = git@github.com:ashkanchaji/Pima_Diabetes_prediction_MLP.git
+[submodule "CNN_training_on_STL_10"]
+	path = CNN_training_on_STL_10
+	url = git@github.com:ashkanchaji/CNN_training_on_STL_10.git
+[submodule "Dino_optimization_GA"]
+	path = Dino_optimization_GA
+	url = git@github.com:ashkanchaji/Dino_optimization_GA.git
